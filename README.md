@@ -7,7 +7,7 @@
 <br>•	We get a match, we put that element in a dictionary along with is category type. 
 
 
-    # Regex used: 
+### Regex used: 
  
 <br>      o	Re.search(‘[a-zA-Z]’ , element) :  it returns the if string contains alphabets.
 <br>      o	Re.search(‘[0-9]’, element) :  it returns the if string contains constants.
