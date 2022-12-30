@@ -9,8 +9,8 @@
 
 ### Regex used: 
  
-<br>      o	Re.search(‘[a-zA-Z]’ , element) :  it returns the if string contains alphabets.
-<br>      o	Re.search(‘[0-9]’, element) :  it returns the if string contains constants.
-<br>      o	Re.search(‘[+ , / , * ]’ , element) it returns the if string contains operators.
-<br>      o	Re.search(‘[{ , }  , ( , ) ]’ , element) it returns the if string contains punctuators.
-<br>      o	Re.search(‘[& , %  , $ ]’ , element) it returns the if string contains Speical Characters.
+            <br>      o	Re.search(‘[a-zA-Z]’ , element) :  it returns the if string contains alphabets.
+            <br>      o	Re.search(‘[0-9]’, element) :  it returns the if string contains constants.
+            <br>      o	Re.search(‘[+ , / , * ]’ , element) it returns the if string contains operators.
+            <br>      o	Re.search(‘[{ , }  , ( , ) ]’ , element) it returns the if string contains punctuators.
+            <br>      o	Re.search(‘[& , %  , $ ]’ , element) it returns the if string contains Speical Characters.
