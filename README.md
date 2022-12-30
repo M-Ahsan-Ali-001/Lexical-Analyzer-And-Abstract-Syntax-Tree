@@ -6,7 +6,7 @@
 <br>•	tokenFinder(), in this function  we check the elements of split list one by using regular Expression to check form which category the current element belongs to.
 <br>•	We get a match, we put that element in a dictionary along with is category type. 
 <div style=" margin-left: 100px;">
- <h2>       Regex used: </h2>
+    ### Regex used: 
  
 <br>      o	Re.search(‘[a-zA-Z]’ , element) :  it returns the if string contains alphabets.
 <br>      o	Re.search(‘[0-9]’, element) :  it returns the if string contains constants.
